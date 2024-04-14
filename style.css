@@ -259,14 +259,14 @@
     align-items: center;
     padding: 24px 0;
   }
-  .cabecalho {
+  .cabeca {
     background-color: #8500b9;
     color: white;
     display: flex;
     align-items: baseline;
    ;
   }
-  .cabecalho-imagem{
+  .logo{
     width: 5%;
     
   }
